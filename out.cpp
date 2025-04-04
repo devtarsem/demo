@@ -4,13 +4,17 @@ using namespace std;
 
 int del(){
 }
-
+int pop(){}
 
 int tom(){
     
 }
 
 int garry(){
+    
+}
+
+int dom(){
     
 }
 
