@@ -20,6 +20,7 @@ int dom(){
 
 int fav(){
     cout<<"pop"<<endl;
+    cout<<"yellow"<<endl;
 }
 
 int main(){
