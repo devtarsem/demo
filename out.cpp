@@ -15,7 +15,7 @@ int garry(){
 }
 
 int dom(){
-    
+    cout<<"hi dom";
 }
 
 int fav(){
