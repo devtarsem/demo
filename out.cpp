@@ -19,7 +19,7 @@ int dom(){
 }
 
 int fav(){
-    cout<<"hello"<<endl;
+    cout<<"yellow"<<endl;
 }
 
 int main(){
