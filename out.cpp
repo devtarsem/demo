@@ -6,7 +6,7 @@ int shut(){
     cout<<"Shut the nonsense and estart"<<endl;
 }
 int restart(){
-    cout<<"Jst do it man";
+    cout<<"Jst do it mans";
 }
 
 int fav(){
