@@ -2,20 +2,8 @@
 using namespace std;
 
 
-int del(){
-}
-int pop(){}
-
-int tom(){
-    
-}
-
-int garry(){
-    
-}
-
-int dom(){
-    cout<<"hi dom";
+int shut(){
+    cout<<"Shut the nonsense"<<endl;
 }
 
 int fav(){
