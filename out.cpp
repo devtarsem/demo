@@ -3,7 +3,7 @@ using namespace std;
 
 
 int shut(){
-    cout<<"Shut the nonsense"<<endl;
+    cout<<"Shut the nonsense and estart"<<endl;
 }
 
 int fav(){
