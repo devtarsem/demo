@@ -5,6 +5,9 @@ using namespace std;
 int shut(){
     cout<<"Shut the nonsense and estart"<<endl;
 }
+int restart(){
+    cout<<"restat";
+}
 
 int fav(){
     cout<<"pop"<<endl;
