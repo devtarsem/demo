@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-
+#include<math.h>
+#include<algorithm>
 
 int shut(){
     cout<<"Shut the nonsense and estart"<<endl;
