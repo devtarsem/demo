@@ -6,6 +6,10 @@ using namespace std;
 int shut(){
     cout<<"Shut the nonsense and estart"<<endl;
 }
+
+int pushing(){
+    cout<<"push";
+}
 int restart(){
     cout<<"Jst do it mans";
 }
